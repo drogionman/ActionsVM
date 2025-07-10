@@ -23,4 +23,4 @@ jobs:
         TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
 
     - name: Run End Script
-      run: source macos-end.sh
+      run: sleep 848484848488
